@@ -1,0 +1,27 @@
+.radioStyle {
+    display : block;
+    height : 30px;
+}
+
+.addQs{
+    background-color: rgb(255, 255, 255);
+    color: rgba(0, 0, 0, 0.45);
+    width: 100%;
+    height: 158px;
+    border-color: rgb(217, 217, 217);
+    border-radius: 2px;
+}
+
+.addcol{
+    margin-bottom: 16px;
+}
+
+.addcol span{
+    font-weight: 500;
+}
+
+.addcol i{
+    cursor: pointer;
+    font-size:21px;
+    margin-left:10px;
+}

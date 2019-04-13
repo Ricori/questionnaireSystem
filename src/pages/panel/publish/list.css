@@ -1,0 +1,18 @@
+.extraContent {
+    float: right;
+    padding: 17.5px 0;
+    font-size: 14px;
+    color: rgba(0,0,0,.65);
+    font-weight: 400;
+    text-align: right;
+    margin-left: auto;
+}
+
+.extraContentSearch {
+    margin-left: 16px;
+    width: 272px;
+}
+
+.listCard {
+    overflow: visible;
+}

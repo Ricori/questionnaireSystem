@@ -1,0 +1,45 @@
+.iconDiv{
+    margin-top: 48px;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+.icon{
+    color: #52c41a;
+    font-size: 72px;
+}
+
+.title{
+    font-size: 24px;
+    color: rgba(0,0,0,.85);
+    font-weight: 500;
+    line-height: 32px;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+.description{
+    font-size: 14px;
+    line-height: 22px;
+    color: rgba(0,0,0,.45);
+    margin-bottom: 24px;
+    text-align: center;
+}
+
+.extra{
+    background: #fafafa;
+    padding: 24px 40px;
+    border-radius: 2px;
+    text-align: left;
+}
+
+.extraTitle{
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.85);
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.extra p{
+    margin-bottom: 12px;
+}

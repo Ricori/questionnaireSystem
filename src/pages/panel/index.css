@@ -1,0 +1,22 @@
+.qk{
+    width: 400px;
+    margin: 190px auto;
+    cursor: pointer;
+}
+
+.qkicon{
+    color: rgba(0, 0, 0, 0.6);
+    width: 80px;
+    float: left;
+}
+
+.qkicon i{
+    font-size: 65px;
+    margin-left: 6px;
+}
+
+.qktext{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 5px;
+}
